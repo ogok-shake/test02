@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+.footer{
+	
+	height: 40px;
+	width: 100%;
+}
+
+.footer ul{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+
+	list-style: none;
+	text-align: center;
+}
+
+.footer ul li{
+	display: inline;
+
+}
+

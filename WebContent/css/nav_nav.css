@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+.nav_nav{
+	margin: 10px 0 10px auto;
+	height: 40px;
+	width: 100%;
+}
+
+.nav_nav ul{
+	margin-right: 20px;
+	list-style: none;
+	text-align: right;
+}
+
+.nav_nav ul li{
+	display: inline;
+}
+
+

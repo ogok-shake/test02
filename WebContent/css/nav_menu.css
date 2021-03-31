@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+.nav_menu{
+	height: 10%;
+	width: 70%;
+
+}
+
+
+.nav_menu tr td{
+	font-size: 15pt;
+	text-align: center;
+}
+

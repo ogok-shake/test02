@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+
+td table{
+margin:auto; border-radius:30px;background-color:#f7eff0;margin-bottom: 10px;
+}
+td table tr,td{
+padding-bottom:5px;
+   }
+TR,TD{
+padding:5px;
+   }
